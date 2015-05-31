@@ -1070,7 +1070,7 @@ void perfectbg_animation_started(Animation *animation, void *data) {
   
 	// clear out BG and icon
   text_layer_set_text(bg_layer, " ");
-  text_layer_set_text(message_layer, "FIST BUMP!\0");
+  text_layer_set_text(message_layer, "EZRA YEHUDA HAMELEACH!\0");
   
 } // end perfectbg_animation_started
 
